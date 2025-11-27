@@ -5,26 +5,19 @@ body{
     cursor: pointer;
 }
 
-.head{
+.head1{
     background-color: rgba(241, 241, 241, 0.384);
     width: 800px;
     height: 550px;
-    margin-left: 280px;
-    margin-top: 62px;
     border-radius: 30px;
-}
-
-.head1{
-    position: absolute;
-    top: 40px;
+    margin: 62px auto;
 }
 
 h1{
     background-color: rgba(141, 141, 141, 0.473);
     text-align: center;
-    /* margin-top: 60px; */
     width: 680px;
-    margin-left: 330px;
+   margin: 20px auto;
     border-radius: 10px;
 }
 
@@ -33,7 +26,7 @@ h1{
     display: flex;
     justify-content: center;
     width: 680px;
-    margin-left: 330px;
+    margin: auto;
     border-radius: 10px;
 }
 
